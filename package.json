@@ -1,0 +1,17 @@
+{
+  "name": "9.exercice",
+  "version": "1.0.0",
+  "description": "Excercice de Todo list en temps réel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RANDRIANASOLO Franco",
+  "license": "ISC",
+  "dependencies": {
+    "ent": "^2.2.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "socket.io": "^2.2.0"
+  }
+}
